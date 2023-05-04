@@ -1,0 +1,52 @@
+
+
+#inavbar
+{
+    background-color: #333A40 !important;
+}
+
+a.nav-link.btn-success{
+
+    color: #26A743;
+}
+
+#icards
+{
+    width: 80%;
+    margin: 10%;
+    margin-top: 2%;
+}
+
+#islider
+{
+    width: 100%;
+    filter:brightness(40%);
+    
+}
+
+#ibloqueoctubre
+{
+    background: #353A40;
+}
+
+#iform
+{
+    width: 55%;
+}
+
+#isend
+{
+    background: #96c93e;
+}
+
+#ifooter
+{
+    background: rgb(33,47,76);  
+ 
+}
+
+    .py-3A
+     {
+        padding-top: 1rem!important;
+      /*  padding-bottom: 1rem!important;*/
+    }
